@@ -1,0 +1,10 @@
+{
+  "changelog": [
+    "@changesets/changelog-github",
+    { "repo": "q-u-n/state-management-collection" }
+  ],
+  "commit": false,
+  "access": "public",
+  "baseBranch": "main",
+  "tag": true
+}
